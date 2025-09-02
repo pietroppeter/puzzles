@@ -1,0 +1,2 @@
+# puzzles
+logic puzzles
